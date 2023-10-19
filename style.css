@@ -41,8 +41,8 @@ h2 span{
 .block{
     position: absolute;
     border-radius: 100%;
-    width: 50px;
-    height: 50px;
+    width: 3px;
+    height: 3px;
     background: #e80202;
     box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
 }
